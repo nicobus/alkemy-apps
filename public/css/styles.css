@@ -1,0 +1,51 @@
+body {
+    font-family: "Roboto", sans-serif;
+}
+.btn-buscar, .btn{
+    background-color: rgb(153, 51, 255);
+    color: white !important;
+    font-weight: 700;
+}
+.row a{
+    text-decoration: none;
+    color: black;
+}
+.bg-footer{
+    background-color: #5C5B60;
+}
+.redes-sociales .nav-item a{
+    text-decoration: none;
+    color: white;
+}
+
+.font-size28px{
+    font-size: 28px;
+}
+  
+.link-app-detail {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 10;
+}
+.panel-session{
+    color: white;
+}
+.link-white{
+    color: white;
+}
+
+.link-white:hover{
+    color: purple;
+}
+.font-color-wuite{
+    color: white;
+}
+.bg-purple{
+    background-color: rgb(153, 51, 255);
+}
+.capitalize-first-letter{
+    text-transform: capitalize;
+}
